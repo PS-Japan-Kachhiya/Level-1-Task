@@ -6,3 +6,4 @@ whisper
 scikit-learn
 python-dotenv
 streamlit
+yt-dlp
