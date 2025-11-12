@@ -21,7 +21,7 @@ It allows you to:
 
 
 ## 🧱 Project Structure
-
+text
 youtube-rag-assistant/
 │
 ├── rag.py # Core RAG pipeline (transcription, embedding, QA)
