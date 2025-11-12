@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+torch
+pytube
+whisper
+scikit-learn
+python-dotenv
+streamlit
