@@ -21,13 +21,14 @@ It allows you to:
 
 
 ## 🧱 Project Structure
-text
-youtube-rag-assistant/
-│
-├── rag.py # Core RAG pipeline (transcription, embedding, QA)
-├── app.py # Streamlit UI for interaction
-├── requirements.txt # Dependencies
-└── README.md # Project overview and usage guide
+youtube-rag-assistant:
+  description: "Retrieval-Augmented Generation pipeline for YouTube videos using Whisper, Embeddings, and Streamlit"
+  files:
+    - rag.py: "Core RAG pipeline (transcription, embedding, and question-answering)"
+    - app.py: "Streamlit UI for YouTube video input and question interaction"
+    - requirements.txt: "All Python dependencies required to run the project"
+    - README.md: "Project overview, setup instructions, and usage guide"
+
 
 
 ## ⚙️ Setup Instructions
