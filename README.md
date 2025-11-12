@@ -27,7 +27,6 @@ youtube-rag-assistant/
 ├── rag.py                 # Core RAG pipeline (transcription, embedding, QA)
 ├── app.py                 # Streamlit UI for interaction
 ├── requirements.txt       # Dependencies
-├── .gitignore             # Ignore unnecessary files (venv, cache, temp data)
 └── README.md              # Project overview and usage guide
 ```
 
@@ -36,6 +35,7 @@ youtube-rag-assistant/
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
+git clone https://github.com/PS-Japan-Kachhiya/Level-1-Task.git
 
 ### 2️⃣ Create a Virtual Environment
 python -m venv .venv
